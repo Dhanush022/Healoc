@@ -1,0 +1,9 @@
+{
+  "name": "Healoc - Digital Health Passport",
+  "description": "A secure, AI-powered web app for storing and managing personal health information. It makes health data instantly accessible in emergencies and helps users understand their symptoms, prescriptions, and medical reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
